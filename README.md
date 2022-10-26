@@ -1,10 +1,14 @@
 # BhutaneseNews
 
-*Just a small project I built when I had nothing to do*
-
+_Just a small project I built when I had nothing to do_
 
 <br/>
 
+### Front-end
+
+Bhutan Daily - https://bhutan-daily.vercel.app/
+
+<br/>
 
 APIs with ASP.NET Core 6 to get news from:
 
@@ -12,9 +16,7 @@ APIs with ASP.NET Core 6 to get news from:
 
 - Kuensel - https://kuenselonline.com/
 
-
 <br/>
-
 
 ### API's
 
@@ -24,9 +26,7 @@ The API's are deployed in heroku and it can be accessed from
 
 - Kuensel - https://bhutanese-news.herokuapp.com/Kuensel
 
-
 <br/>
-
 
 ### Credits
 
@@ -38,9 +38,7 @@ Project Details
 
 - Repository Link - [KuenselAPI: API that generate Top stories of Kuensel](https://github.com/NOY10/KuenselAPI)
 
-
 <br/>
-
 
 ### Progress
 
@@ -48,25 +46,19 @@ Project Details
 
 - Kuensel API has only few news fetched
 
-
 <br/>
-
 
 ### Errors
 
 - Dates and news might have been mixed up, wrong dates for each news
 
-- Kuensel API not able to get all news 
+- Kuensel API not able to get all news
 
 - Some links might be broken
 
-
 <br/>
 
-
 ### ToDo
-
-- Create Front-end in React to View all news
 
 - Fix dates for all
 
